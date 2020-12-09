@@ -1,0 +1,59 @@
+h1{
+    color: black;
+}
+
+.art *{
+    border: black;
+    background-color: #a5a6a7;
+}
+.menu{
+    border-radius: 20px;
+    background-color: #f1f2f3;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.body{
+    border-radius: 20px;
+    background-color: #f1f2f3;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.origami{
+    border-radius: 20px;
+    background-color: #f1f2f3;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.love{
+    background-color: #a5a6a7;
+}
+.write{
+    border-radius: 20px;
+    background-color: #f1f2f3;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.right{
+    border-radius: 20px;
+    background-color: #f1f2f3;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
+.code{
+    border-radius: 20px;
+    background-color: #f1f2f3;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
